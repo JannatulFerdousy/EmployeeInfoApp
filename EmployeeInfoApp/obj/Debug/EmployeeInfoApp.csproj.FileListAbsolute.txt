@@ -1,0 +1,9 @@
+H:\MyFolder_Jannat\06.05.15\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe.config
+H:\MyFolder_Jannat\06.05.15\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe
+H:\MyFolder_Jannat\06.05.15\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.pdb
+H:\MyFolder_Jannat\06.05.15\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csprojResolveAssemblyReference.cache
+H:\MyFolder_Jannat\06.05.15\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.Form1.resources
+H:\MyFolder_Jannat\06.05.15\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.Properties.Resources.resources
+H:\MyFolder_Jannat\06.05.15\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csproj.GenerateResource.Cache
+H:\MyFolder_Jannat\06.05.15\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.exe
+H:\MyFolder_Jannat\06.05.15\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.pdb
