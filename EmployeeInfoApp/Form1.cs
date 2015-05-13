@@ -145,6 +145,7 @@ namespace EmployeeInfoApp
                 employee.address = reader["Address"].ToString();
                 employee.email = reader["Email"].ToString();
 
+                employeeList.Add(employee);
 
             }
             reader.Close();
